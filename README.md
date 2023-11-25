@@ -1,11 +1,6 @@
 # Flower-Iris-Classification #
+![Screenshot 2023-11-25 214149](https://github.com/shahid1330/Flower-Iris-Classification/assets/87535723/5cba5f7e-241c-45bb-a1ac-9085dfeaa450)
 
-![virginica](https://github.com/shahid1330/Flower-Iris-Classification/assets/87535723/e679fd43-ef27-4c5e-a5ac-446f0664b197)
-
-![versicolor](https://github.com/shahid1330/Flower-Iris-Classification/assets/87535723/b3c996dd-2e4e-4e15-bd72-a2bb71dc2243)
-
-
-![setosa](https://github.com/shahid1330/Flower-Iris-Classification/assets/87535723/7e39db7e-43cb-4fe7-8459-77d9a3e4098c)
 
 
 Welcome to the Flower Iris Classification project, a comprehensive application of machine learning using Python programming. The primary objective of this project is the classification of Iris flowers using various machine learning algorithms, implemented with scikit-learn tools. The algorithms employed encompass both supervised and unsupervised learning techniques.
