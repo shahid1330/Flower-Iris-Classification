@@ -13,7 +13,6 @@ These algorithms collectively contribute to predicting and evaluating accuracy i
 
 # Iris Dataset
 The project leverages the Iris Dataset, a well-known dataset widely used for machine learning purposes. It includes measurements of sepal length, sepal width, petal length, and petal width for three species of iris flowers: setosa, versicolor, and virginica.<br>
-Dataset link is:- https://www.kaggle.com/datasets/arshid/iris-flower-dataset<br>
 The Iris flower dataset, also known as Fisher's Iris dataset, is a comprehensive collection of multivariate data devised by the renowned British statistician and biologist, Ronald Fisher. Fisher introduced this dataset in his seminal 1936 paper titled "The use of multiple measurements in taxonomic problems" to exemplify the application of linear discriminant analysis.
 
 This dataset comprises 50 samples from each of the three distinct species of Iris: Iris setosa, Iris virginica, and Iris versicolor. Each sample is characterized by four distinct features, with measurements recorded in centimeters. The dataset stands as a classic illustration of how multiple measurements can be effectively utilized in addressing taxonomic challenges, offering valuable insights into the realm of statistical analysis and classification.<br>
@@ -23,6 +22,8 @@ Four features were measured from each sample (in centimetres):
 * Width of the sepals
 * Length of the petals
 * Width of the petals
+
+**Dataset link is:- https://www.kaggle.com/datasets/arshid/iris-flower-dataset**<br>
 
 # Contribution
 Contributions to this project are highly encouraged. If you have suggestions, find issues, or wish to contribute improvements, please feel free to open an issue or submit a pull request. Your input is invaluable!
